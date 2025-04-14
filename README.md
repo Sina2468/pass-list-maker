@@ -1,5 +1,5 @@
 # pass-list-maker
- Create a pass list
+ Simply Create a pass list 
 
 
 
