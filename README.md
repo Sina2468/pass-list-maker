@@ -1,4 +1,4 @@
-# [pass-list-maker](https://github.com/Sina2468/pass-list-maker) . [![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)](license-link) ![version](https://img.shields.io/badge/Version-1.0-blue.svg) ![Project language](https://img.shields.io/badge/language-Python-green.svg)
+# [pass-list-maker](https://github.com/Sina2468/pass-list-maker) . [![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)](./LICENSE) ![version](https://img.shields.io/badge/Version-1.0-blue.svg) ![Project language](https://img.shields.io/badge/language-Python-green.svg)
 
 A pass-list generator written in Python and runs in the terminal 
 
